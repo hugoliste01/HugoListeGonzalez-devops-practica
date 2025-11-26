@@ -1,5 +1,5 @@
 build:
-docker build -t 
+docker build -t hugolistegonzalez/practica-devops
 
 run:
-docker run --rm
+docker run --rm hugolistegonzalez/practica-devops
