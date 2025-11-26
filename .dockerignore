@@ -7,7 +7,6 @@ env/
 venv/
 *.egg-info
 .dist-info
-tests/
-.idea
 .vscode
+.idea
 .env
