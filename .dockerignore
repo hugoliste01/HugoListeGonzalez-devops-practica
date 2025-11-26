@@ -5,8 +5,6 @@ __pycache__
 *.pyd
 env/
 venv/
-*.egg-info
-.dist-info
-.vscode
 .idea
-.env
+.vscode
+.DS_Store
